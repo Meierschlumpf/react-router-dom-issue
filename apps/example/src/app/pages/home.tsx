@@ -1,5 +1,4 @@
 import { UILink } from "@template/ui";
-import { Link } from "react-router-dom";
 
 export const HomePage = () => {
 	return (

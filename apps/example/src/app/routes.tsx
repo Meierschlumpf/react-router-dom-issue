@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "@template/ui/router";
 import { HomePage } from "./pages/home";
 
 export const AppRoutes = () => {
